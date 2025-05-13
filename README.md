@@ -1,6 +1,6 @@
 # International Student SEVIS Termination + Restoration
  
-## Goal
+## Backstory & Goal
 As an international student myself, I followed the news on SEVIS terminations very closely and thought about what I could do as a journalist. Through a journalist colleague, I entered a Discord server where over a thousand international students shared their status updates and conversed about the latest developments. I got in touch with several sources from that Discord server, attempting to quantify what the students were experiencing.
 
 ## Data & Workflow
